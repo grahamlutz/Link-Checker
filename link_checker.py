@@ -49,7 +49,4 @@ class LinkChecker:
 		self.check_a_tags()
 		self.check_link_tags()
 
-headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
-grahamlutz = LinkChecker('http://stackoverflow.com/questions/19998190/nameerror-global-name-myexample2-is-not-defined-modules', headers)
-grahamlutz.check_all()
 
