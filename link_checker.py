@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import validators
+import html_linter
 
 class LinkChecker:
 	'''Class that checks sites for bad links'''
@@ -23,6 +24,13 @@ class LinkChecker:
 		plain_text = self.get_link_text()
 		source_code = BeautifulSoup(plain_text, "html.parser")
 		return source_code
+
+	def lint_html(self):
+		source_code = self.get_source_code()
+		plain_text = self.get_link_text()
+		messages = html_linter.lint(plain_text, [html_linter.QuotationMessage, html_linter.IndentationMessage])
+		print(messages)
+
 
 	def loop_source_code_tag(self, tag, attr):
 		source_code = self.get_source_code()
@@ -49,4 +57,6 @@ class LinkChecker:
 		self.check_a_tags()
 		self.check_link_tags()
 
-
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
+grahamlutz = LinkChecker('http://www.grahamlutz.com', headers)
+grahamlutz.lint_html()
