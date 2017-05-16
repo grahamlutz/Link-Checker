@@ -1,0 +1,579 @@
+Messages for http://www.grahamlutz.com
+2017-05-16
+3:1: Info: Optional Tags: Omit optional tags (optional): You may remove the opening "head" tag.
+4:1: Error: Indentation: Do not use tabs: Remove the tabs.
+4:17: Error: Encoding: The meta charset should be set to utf-8: Change the charset from "UTF-8" to "utf-8".
+4:23: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+5:1: Error: Indentation: Do not use tabs: Remove the tabs.
+6:1: Error: Indentation: Do not use tabs: Remove the tabs.
+6:33: Error: Entity References: Use the unicode equivalent instead: Change "&#8211;" to "–".
+7:45: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+8:44: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+9:55: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+10:42: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+11:81: Error: Entity References: Use the unicode equivalent instead: Change "&raquo;" to "»".
+11:101: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+11:133: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+12:81: Error: Entity References: Use the unicode equivalent instead: Change "&raquo;" to "»".
+12:110: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+12:151: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+13:1: Error: Indentation: Do not use tabs: Remove the tabs.
+13:3: Error: Separation of concerns: Javascript should be defined in its own file: Move the contents of this tag to its own JS file.
+13:11: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+14:1: Error: Indentation: Do not use tabs: Remove the tabs.
+15:1: Error: Indentation: Do not use tabs: Remove the tabs.
+16:1: Error: Indentation: Do not use tabs: Remove the tabs.
+17:1: Error: Indentation: Do not use tabs: Remove the tabs.
+17:3: Error: Separation of concerns: (u'CSS should be defined in its own file',): Move the contents of this tag to its own CSS file.
+17:10: Error: type Attributes: The default type for style tags is "text/css" so it can be safely omitted: Remove the type attribute from the style tag.
+20:1: Error: Indentation: Do not use tabs: Remove the tabs.
+21:1: Error: Indentation: Do not use tabs: Remove the tabs.
+22:1: Error: Indentation: Do not use tabs: Remove the tabs.
+23:1: Error: Indentation: Do not use tabs: Remove the tabs.
+24:1: Error: Indentation: Do not use tabs: Remove the tabs.
+25:1: Error: Indentation: Do not use tabs: Remove the tabs.
+26:1: Error: Indentation: Do not use tabs: Remove the tabs.
+27:1: Error: Indentation: Do not use tabs: Remove the tabs.
+28:1: Error: Indentation: Do not use tabs: Remove the tabs.
+31:48: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+31:55: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+31:148: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+31:175: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+32:54: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+32:61: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+32:177: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+32:204: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+33:44: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+33:51: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+33:136: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+33:163: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+34:52: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+34:59: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "https:" from the url.
+34:142: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+34:169: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+35:43: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+35:50: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+35:140: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+35:167: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+36:49: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+36:56: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+36:152: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+36:179: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+37:46: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+37:53: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+37:146: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+37:173: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+38:46: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+38:53: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+38:146: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+38:173: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+39:44: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+39:51: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+39:132: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+39:159: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+40:46: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+40:53: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+40:140: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+40:167: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+41:45: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+41:52: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+41:127: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+41:154: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+42:46: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+42:53: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+42:124: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+42:151: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+43:48: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+43:55: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+43:129: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+43:156: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+44:28: Error: ID and Class Name Delimiters: The id names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the id "jetpack_css-css".
+44:45: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+44:52: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+44:132: Error: type Attributes: The default type for link tags is "text/css" so it can be safely omitted: Remove the type attribute from the link tag.
+44:159: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+45:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+45:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+46:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+46:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+47:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+47:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+48:38: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+48:73: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+49:66: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+49:107: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+50:66: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+50:120: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+50:123: Error: Trailing Whitespace: Trailing white spaces are unnecessary and can complicate diffs: Remove the u' ' at the end of the line.
+51:29: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+51:56: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+52:29: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+52:51: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+53:60: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+53:150: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+54:52: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+54:141: Error: Entity References: Use the unicode equivalent instead: Change "&#038;" to "&".
+54:158: Error: Document Type: Do not close void elements: Remove the trailing " /" from the link tag.
+57:43: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+57:46: Error: Trailing Whitespace: Trailing white spaces are unnecessary and can complicate diffs: Remove the u' ' at the end of the line.
+58:47: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+59:134: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+60:61: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+61:64: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+62:76: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+63:75: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+64:69: Error: Document Type: Do not close void elements: Remove the trailing " /" from the meta tag.
+75:1: Error: Separation of concerns: (u'CSS should be defined in its own file',): Move the contents of this tag to its own CSS file.
+75:8: Error: type Attributes: The default type for style tags is "text/css" so it can be safely omitted: Remove the type attribute from the style tag.
+75:57: Error: Separation of concerns: (u'CSS should be defined in its own file',): Move the contents of this tag to its own CSS file.
+75:64: Error: type Attributes: The default type for style tags is "text/css" so it can be safely omitted: Remove the type attribute from the style tag.
+75:279: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "head" tag.
+77:1: Error: Indentation: Do not use tabs: Remove the tabs.
+78:47: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+79:1: Error: Indentation: Do not use tabs: Remove the tabs.
+80:1: Error: Indentation: Do not use tabs: Remove the tabs.
+81:1: Error: Indentation: Do not use tabs: Remove the tabs.
+82:1: Error: Indentation: Do not use tabs: Remove the tabs.
+84:1: Error: Indentation: Do not use tabs: Remove the tabs.
+84:28: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+85:1: Error: Trailing Whitespace: Trailing white spaces are unnecessary and can complicate diffs: Remove the u'\t\t\t\t\t\t\t\t\t\t\t' at the end of the line.
+85:1: Error: Indentation: Do not use tabs: Remove the tabs.
+86:1: Error: Indentation: Do not use tabs: Remove the tabs.
+87:1: Error: Indentation: Do not use tabs: Remove the tabs.
+88:1: Error: Indentation: Do not use tabs: Remove the tabs.
+89:1: Error: Indentation: Do not use tabs: Remove the tabs.
+90:1: Error: Indentation: Do not use tabs: Remove the tabs.
+90:37: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+90:104: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+90:158: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+91:30: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+91:97: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+91:165: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+92:30: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+92:97: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+92:165: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+93:30: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+93:97: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+93:151: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+94:1: Error: Indentation: Do not use tabs: Remove the tabs.
+95:1: Error: Indentation: Do not use tabs: Remove the tabs.
+96:1: Error: Indentation: Do not use tabs: Remove the tabs.
+97:1: Error: Indentation: Do not use tabs: Remove the tabs.
+98:1: Error: Indentation: Do not use tabs: Remove the tabs.
+99:1: Error: Indentation: Do not use tabs: Remove the tabs.
+100:1: Error: Indentation: Do not use tabs: Remove the tabs.
+101:1: Error: Indentation: Do not use tabs: Remove the tabs.
+102:1: Error: Indentation: Do not use tabs: Remove the tabs.
+103:1: Error: Indentation: Do not use tabs: Remove the tabs.
+103:15: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+103:82: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+103:136: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+104:12: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+104:79: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+104:147: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+105:12: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+105:79: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+105:147: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+106:12: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "menu-item menu-item-type-post_type menu-item-object-page".
+106:79: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+106:133: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+107:1: Error: Indentation: Do not use tabs: Remove the tabs.
+108:1: Error: Indentation: Do not use tabs: Remove the tabs.
+109:1: Error: Indentation: Do not use tabs: Remove the tabs.
+110:1: Error: Indentation: Do not use tabs: Remove the tabs.
+111:1: Error: Indentation: Do not use tabs: Remove the tabs.
+112:1: Error: Indentation: Do not use tabs: Remove the tabs.
+113:1: Error: Indentation: Do not use tabs: Remove the tabs.
+113:115: Error: Indentation: Do not use tabs: Remove the tabs.
+114:1: Error: Indentation: Do not use tabs: Remove the tabs.
+114:124: Error: Indentation: Do not use tabs: Remove the tabs.
+115:1: Error: Indentation: Do not use tabs: Remove the tabs.
+116:1: Error: Indentation: Do not use tabs: Remove the tabs.
+117:1: Error: Indentation: Do not use tabs: Remove the tabs.
+117:158: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+118:1: Error: Indentation: Do not use tabs: Remove the tabs.
+119:1: Error: Indentation: Do not use tabs: Remove the tabs.
+120:1: Error: Indentation: Do not use tabs: Remove the tabs.
+121:1: Error: Indentation: Do not use tabs: Remove the tabs.
+122:1: Error: Indentation: Do not use tabs: Remove the tabs.
+123:1: Error: Indentation: Do not use tabs: Remove the tabs.
+129:1: Error: Indentation: Do not use tabs: Remove the tabs.
+130:1: Error: Indentation: Do not use tabs: Remove the tabs.
+131:1: Error: Indentation: Do not use tabs: Remove the tabs.
+132:1: Error: Indentation: Do not use tabs: Remove the tabs.
+133:1: Error: Indentation: Do not use tabs: Remove the tabs.
+134:1: Error: Indentation: Do not use tabs: Remove the tabs.
+135:1: Error: Indentation: Do not use tabs: Remove the tabs.
+136:1: Error: Indentation: Do not use tabs: Remove the tabs.
+136:75: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+137:1: Error: Indentation: Do not use tabs: Remove the tabs.
+138:1: Error: Indentation: Do not use tabs: Remove the tabs.
+139:1: Error: Indentation: Do not use tabs: Remove the tabs.
+140:1: Error: Indentation: Do not use tabs: Remove the tabs.
+141:1: Error: Indentation: Do not use tabs: Remove the tabs.
+142:1: Error: Indentation: Do not use tabs: Remove the tabs.
+143:1: Error: Indentation: Do not use tabs: Remove the tabs.
+144:1: Error: Indentation: Do not use tabs: Remove the tabs.
+144:14: Error: ID and Class Name Delimiters: The id names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the id "illdy_service-3".
+144:38: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "col-sm-4 widget_illdy_service".
+144:69: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:119: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:204: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:267: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:520: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:529: Error: ID and Class Name Delimiters: The id names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the id "illdy_service-4".
+144:553: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "col-sm-4 widget_illdy_service".
+144:584: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:634: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:719: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:782: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:1058: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:1067: Error: ID and Class Name Delimiters: The id names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the id "illdy_service-5".
+144:1091: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "col-sm-4 widget_illdy_service".
+144:1122: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:1172: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:1251: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:1316: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+144:1598: Error: Indentation: Do not use tabs: Remove the tabs.
+145:1: Error: Indentation: Do not use tabs: Remove the tabs.
+146:1: Error: Indentation: Do not use tabs: Remove the tabs.
+150:1: Error: Indentation: Do not use tabs: Remove the tabs.
+151:1: Error: Indentation: Do not use tabs: Remove the tabs.
+152:1: Error: Indentation: Do not use tabs: Remove the tabs.
+153:1: Error: Indentation: Do not use tabs: Remove the tabs.
+154:1: Error: Indentation: Do not use tabs: Remove the tabs.
+155:1: Error: Indentation: Do not use tabs: Remove the tabs.
+156:1: Error: Indentation: Do not use tabs: Remove the tabs.
+157:1: Error: Indentation: Do not use tabs: Remove the tabs.
+158:1: Error: Indentation: Do not use tabs: Remove the tabs.
+158:130: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+159:1: Error: Indentation: Do not use tabs: Remove the tabs.
+160:1: Error: Indentation: Do not use tabs: Remove the tabs.
+161:1: Error: Indentation: Do not use tabs: Remove the tabs.
+162:1: Error: Indentation: Do not use tabs: Remove the tabs.
+163:1: Error: Indentation: Do not use tabs: Remove the tabs.
+163:15: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+163:142: Error: Indentation: Do not use tabs: Remove the tabs.
+164:1: Error: Trailing Whitespace: Trailing white spaces are unnecessary and can complicate diffs: Remove the u'\t\t' at the end of the line.
+164:1: Error: Indentation: Do not use tabs: Remove the tabs.
+165:1: Error: Indentation: Do not use tabs: Remove the tabs.
+166:1: Error: Indentation: Do not use tabs: Remove the tabs.
+167:1: Error: Indentation: Do not use tabs: Remove the tabs.
+168:1: Error: Trailing Whitespace: Trailing white spaces are unnecessary and can complicate diffs: Remove the u'\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t' at the end of the line.
+168:1: Error: Indentation: Do not use tabs: Remove the tabs.
+169:1: Error: Indentation: Do not use tabs: Remove the tabs.
+170:1: Error: Indentation: Do not use tabs: Remove the tabs.
+170:27: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+171:1: Error: Indentation: Do not use tabs: Remove the tabs.
+171:28: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+172:1: Error: Indentation: Do not use tabs: Remove the tabs.
+173:1: Error: Indentation: Do not use tabs: Remove the tabs.
+173:335: Error: Entity References: Use the unicode equivalent instead: Change "&hellip;" to "…".
+173:344: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+174:1: Error: Indentation: Do not use tabs: Remove the tabs.
+175:1: Error: Indentation: Do not use tabs: Remove the tabs.
+175:19: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+175:187: Error: Indentation: Do not use tabs: Remove the tabs.
+176:1: Error: Indentation: Do not use tabs: Remove the tabs.
+177:1: Error: Indentation: Do not use tabs: Remove the tabs.
+178:1: Error: Trailing Whitespace: Trailing white spaces are unnecessary and can complicate diffs: Remove the u'\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t' at the end of the line.
+178:1: Error: Indentation: Do not use tabs: Remove the tabs.
+179:1: Error: Indentation: Do not use tabs: Remove the tabs.
+180:1: Error: Indentation: Do not use tabs: Remove the tabs.
+180:27: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+181:1: Error: Indentation: Do not use tabs: Remove the tabs.
+181:28: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+181:152: Error: Extra whitespace: Use whitespaces only where expected and be consistent: Remove the extra whitespaces.
+182:1: Error: Indentation: Do not use tabs: Remove the tabs.
+183:1: Error: Indentation: Do not use tabs: Remove the tabs.
+183:19: Error: Entity References: Use the unicode equivalent instead: Change "&#8216;" to "‘".
+183:65: Error: Entity References: Use the unicode equivalent instead: Change "&#8220;" to "“".
+183:93: Error: Entity References: Use the unicode equivalent instead: Change "&#8221;" to "”".
+183:104: Error: Entity References: Use the unicode equivalent instead: Change "&#8216;" to "‘".
+183:364: Error: Entity References: Use the unicode equivalent instead: Change "&hellip;" to "…".
+183:373: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+184:1: Error: Indentation: Do not use tabs: Remove the tabs.
+185:1: Error: Indentation: Do not use tabs: Remove the tabs.
+185:19: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+185:196: Error: Indentation: Do not use tabs: Remove the tabs.
+186:1: Error: Indentation: Do not use tabs: Remove the tabs.
+187:1: Error: Indentation: Do not use tabs: Remove the tabs.
+188:1: Error: Indentation: Do not use tabs: Remove the tabs.
+189:1: Error: Indentation: Do not use tabs: Remove the tabs.
+190:1: Error: Indentation: Do not use tabs: Remove the tabs.
+191:1: Error: Indentation: Do not use tabs: Remove the tabs.
+195:55: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+196:1: Error: Indentation: Do not use tabs: Remove the tabs.
+197:1: Error: Indentation: Do not use tabs: Remove the tabs.
+198:1: Error: Indentation: Do not use tabs: Remove the tabs.
+199:1: Error: Indentation: Do not use tabs: Remove the tabs.
+200:1: Error: Indentation: Do not use tabs: Remove the tabs.
+201:1: Error: Indentation: Do not use tabs: Remove the tabs.
+202:1: Error: Indentation: Do not use tabs: Remove the tabs.
+203:1: Error: Indentation: Do not use tabs: Remove the tabs.
+204:1: Error: Indentation: Do not use tabs: Remove the tabs.
+205:1: Error: Indentation: Do not use tabs: Remove the tabs.
+206:1: Error: Indentation: Do not use tabs: Remove the tabs.
+207:1: Error: Indentation: Do not use tabs: Remove the tabs.
+208:1: Error: Indentation: Do not use tabs: Remove the tabs.
+209:1: Error: Indentation: Do not use tabs: Remove the tabs.
+210:1: Error: Indentation: Do not use tabs: Remove the tabs.
+210:61: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+211:1: Error: Indentation: Do not use tabs: Remove the tabs.
+212:1: Error: Indentation: Do not use tabs: Remove the tabs.
+212:47: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+212:839: Error: Document Type: Do not close void elements: Remove the trailing " /" from the img tag.
+212:842: Error: Indentation: Do not use tabs: Remove the tabs.
+213:1: Error: Indentation: Do not use tabs: Remove the tabs.
+214:1: Error: Indentation: Do not use tabs: Remove the tabs.
+215:1: Error: Indentation: Do not use tabs: Remove the tabs.
+216:1: Error: Indentation: Do not use tabs: Remove the tabs.
+217:1: Error: Indentation: Do not use tabs: Remove the tabs.
+217:17: Error: Indentation: Do not use tabs: Remove the tabs.
+218:1: Error: Indentation: Do not use tabs: Remove the tabs.
+219:1: Error: Indentation: Do not use tabs: Remove the tabs.
+219:61: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+220:1: Error: Indentation: Do not use tabs: Remove the tabs.
+221:1: Error: Indentation: Do not use tabs: Remove the tabs.
+221:47: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+221:746: Error: Document Type: Do not close void elements: Remove the trailing " /" from the img tag.
+221:749: Error: Indentation: Do not use tabs: Remove the tabs.
+222:1: Error: Indentation: Do not use tabs: Remove the tabs.
+223:1: Error: Indentation: Do not use tabs: Remove the tabs.
+223:107: Error: Entity References: Use the unicode equivalent instead: Change "&#039;" to "'".
+223:367: Error: Entity References: Use the unicode equivalent instead: Change "&#039;" to "'".
+224:1: Error: Indentation: Do not use tabs: Remove the tabs.
+225:1: Error: Indentation: Do not use tabs: Remove the tabs.
+226:1: Error: Indentation: Do not use tabs: Remove the tabs.
+226:16: Error: Indentation: Do not use tabs: Remove the tabs.
+227:1: Error: Indentation: Do not use tabs: Remove the tabs.
+228:1: Error: Indentation: Do not use tabs: Remove the tabs.
+228:61: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+229:1: Error: Indentation: Do not use tabs: Remove the tabs.
+230:1: Error: Indentation: Do not use tabs: Remove the tabs.
+230:47: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+230:448: Error: Document Type: Do not close void elements: Remove the trailing " /" from the img tag.
+230:451: Error: Indentation: Do not use tabs: Remove the tabs.
+231:1: Error: Indentation: Do not use tabs: Remove the tabs.
+232:1: Error: Indentation: Do not use tabs: Remove the tabs.
+232:450: Error: Entity References: Use the unicode equivalent instead: Change "&#039;" to "'".
+232:530: Error: Entity References: Use the unicode equivalent instead: Change "&#039;" to "'".
+232:581: Error: Entity References: Use the unicode equivalent instead: Change "&#039;" to "'".
+233:1: Error: Indentation: Do not use tabs: Remove the tabs.
+234:1: Error: Indentation: Do not use tabs: Remove the tabs.
+235:1: Error: Indentation: Do not use tabs: Remove the tabs.
+235:19: Error: Indentation: Do not use tabs: Remove the tabs.
+236:1: Error: Indentation: Do not use tabs: Remove the tabs.
+237:1: Error: Indentation: Do not use tabs: Remove the tabs.
+237:61: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+238:1: Error: Indentation: Do not use tabs: Remove the tabs.
+239:1: Error: Indentation: Do not use tabs: Remove the tabs.
+239:47: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+239:757: Error: Document Type: Do not close void elements: Remove the trailing " /" from the img tag.
+239:760: Error: Indentation: Do not use tabs: Remove the tabs.
+240:1: Error: Indentation: Do not use tabs: Remove the tabs.
+241:1: Error: Indentation: Do not use tabs: Remove the tabs.
+241:256: Error: Entity References: Use the unicode equivalent instead: Change "&#039;" to "'".
+242:1: Error: Indentation: Do not use tabs: Remove the tabs.
+243:1: Error: Indentation: Do not use tabs: Remove the tabs.
+244:1: Error: Indentation: Do not use tabs: Remove the tabs.
+244:18: Error: Indentation: Do not use tabs: Remove the tabs.
+245:1: Error: Indentation: Do not use tabs: Remove the tabs.
+246:1: Error: Indentation: Do not use tabs: Remove the tabs.
+247:1: Error: Indentation: Do not use tabs: Remove the tabs.
+248:1: Error: Indentation: Do not use tabs: Remove the tabs.
+249:1: Error: Indentation: Do not use tabs: Remove the tabs.
+250:1: Error: Indentation: Do not use tabs: Remove the tabs.
+251:1: Error: Indentation: Do not use tabs: Remove the tabs.
+253:1: Error: Indentation: Do not use tabs: Remove the tabs.
+254:1: Error: Indentation: Do not use tabs: Remove the tabs.
+255:1: Error: Indentation: Do not use tabs: Remove the tabs.
+256:1: Error: Indentation: Do not use tabs: Remove the tabs.
+257:1: Error: Indentation: Do not use tabs: Remove the tabs.
+258:1: Error: Indentation: Do not use tabs: Remove the tabs.
+259:1: Error: Indentation: Do not use tabs: Remove the tabs.
+260:1: Error: Indentation: Do not use tabs: Remove the tabs.
+261:1: Error: Indentation: Do not use tabs: Remove the tabs.
+261:57: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+262:1: Error: Indentation: Do not use tabs: Remove the tabs.
+263:1: Error: Indentation: Do not use tabs: Remove the tabs.
+264:1: Error: Indentation: Do not use tabs: Remove the tabs.
+265:1: Error: Indentation: Do not use tabs: Remove the tabs.
+266:1: Error: Indentation: Do not use tabs: Remove the tabs.
+267:1: Error: Indentation: Do not use tabs: Remove the tabs.
+268:1: Error: Indentation: Do not use tabs: Remove the tabs.
+269:1: Error: Indentation: Do not use tabs: Remove the tabs.
+270:1: Error: Indentation: Do not use tabs: Remove the tabs.
+270:24: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+271:1: Error: Indentation: Do not use tabs: Remove the tabs.
+272:1: Error: Indentation: Do not use tabs: Remove the tabs.
+273:1: Error: Indentation: Do not use tabs: Remove the tabs.
+274:1: Error: Indentation: Do not use tabs: Remove the tabs.
+275:1: Error: Indentation: Do not use tabs: Remove the tabs.
+276:1: Error: Indentation: Do not use tabs: Remove the tabs.
+277:1: Error: Indentation: Do not use tabs: Remove the tabs.
+278:1: Error: Indentation: Do not use tabs: Remove the tabs.
+279:1: Error: Indentation: Do not use tabs: Remove the tabs.
+280:1: Error: Indentation: Do not use tabs: Remove the tabs.
+281:1: Error: Indentation: Do not use tabs: Remove the tabs.
+282:1: Error: Indentation: Do not use tabs: Remove the tabs.
+283:1: Error: Indentation: Do not use tabs: Remove the tabs.
+284:1: Error: Indentation: Do not use tabs: Remove the tabs.
+285:1: Error: Indentation: Do not use tabs: Remove the tabs.
+286:1: Error: Indentation: Do not use tabs: Remove the tabs.
+287:1: Error: Indentation: Do not use tabs: Remove the tabs.
+288:1: Error: Indentation: Do not use tabs: Remove the tabs.
+289:1: Error: Indentation: Do not use tabs: Remove the tabs.
+290:1: Error: Indentation: Do not use tabs: Remove the tabs.
+291:1: Error: Indentation: Do not use tabs: Remove the tabs.
+292:1: Error: Indentation: Do not use tabs: Remove the tabs.
+293:1: Error: Indentation: Do not use tabs: Remove the tabs.
+294:1: Error: Indentation: Do not use tabs: Remove the tabs.
+295:1: Error: Indentation: Do not use tabs: Remove the tabs.
+297:64: Error: Boolean Attributes: Boolean attributes define their value based on the presence or abscence of the attribute: Change 'novalidate="novalidate"' to just 'novalidate'.
+298:6: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+299:46: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+300:55: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+301:56: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+302:65: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+303:56: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+305:35: Error: Document Type: Do not close void elements: Remove the trailing " /" from the br tag.
+306:215: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+306:234: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+307:36: Error: Document Type: Do not close void elements: Remove the trailing " /" from the br tag.
+308:255: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+308:274: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+309:22: Error: Document Type: Do not close void elements: Remove the trailing " /" from the br tag.
+310:172: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+310:191: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+311:27: Error: Document Type: Do not close void elements: Remove the trailing " /" from the br tag.
+312:196: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+313:77: Error: Document Type: Do not close void elements: Remove the trailing " /" from the input tag.
+313:80: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+314:74: Error: Indentation: Do not use tabs: Remove the tabs.
+315:1: Error: Indentation: Do not use tabs: Remove the tabs.
+316:1: Error: Indentation: Do not use tabs: Remove the tabs.
+317:1: Error: Indentation: Do not use tabs: Remove the tabs.
+318:1: Error: Indentation: Do not use tabs: Remove the tabs.
+321:1: Error: Indentation: Do not use tabs: Remove the tabs.
+322:1: Error: Indentation: Do not use tabs: Remove the tabs.
+323:1: Error: Indentation: Do not use tabs: Remove the tabs.
+324:1: Error: Indentation: Do not use tabs: Remove the tabs.
+324:29: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "widget widget_text".
+324:49: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+324:75: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "h3" to its own line.
+324:98: Error: Indentation: Do not use tabs: Remove the tabs.
+324:101: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+324:125: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "ul" to its own line.
+324:129: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+324:174: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+324:179: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+324:216: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+324:221: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+324:258: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+324:263: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+324:316: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+325:1: Error: Indentation: Do not use tabs: Remove the tabs.
+325:9: Error: Indentation: Do not use tabs: Remove the tabs.
+326:1: Error: Indentation: Do not use tabs: Remove the tabs.
+327:1: Error: Indentation: Do not use tabs: Remove the tabs.
+327:29: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "widget widget_text".
+327:49: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+327:75: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "h3" to its own line.
+327:101: Error: Indentation: Do not use tabs: Remove the tabs.
+327:104: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+327:128: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "ul" to its own line.
+327:132: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+327:175: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+327:180: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+327:219: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+327:224: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+327:273: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+327:278: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+327:315: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+328:1: Error: Indentation: Do not use tabs: Remove the tabs.
+328:9: Error: Indentation: Do not use tabs: Remove the tabs.
+329:1: Error: Indentation: Do not use tabs: Remove the tabs.
+330:1: Error: Indentation: Do not use tabs: Remove the tabs.
+330:29: Error: ID and Class Name Delimiters: The class names should be lowercase and with hyphens instead of underscores: Remove the offending characters from the class "widget widget_text".
+330:49: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+330:75: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "h3" to its own line.
+330:97: Error: Indentation: Do not use tabs: Remove the tabs.
+330:100: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+330:124: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "ul" to its own line.
+330:128: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+330:183: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+330:188: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+330:225: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+330:230: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+330:271: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+330:276: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "li" to its own line.
+330:319: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "li" tag.
+331:1: Error: Indentation: Do not use tabs: Remove the tabs.
+331:9: Error: Indentation: Do not use tabs: Remove the tabs.
+332:1: Error: Indentation: Do not use tabs: Remove the tabs.
+333:1: Error: Indentation: Do not use tabs: Remove the tabs.
+333:19: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+333:108: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+333:250: Error: Document Type: Do not close void elements: Remove the trailing " /" from the img tag.
+334:1: Error: Indentation: Do not use tabs: Remove the tabs.
+335:1: Error: Indentation: Do not use tabs: Remove the tabs.
+335:63: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+336:1: Error: Indentation: Do not use tabs: Remove the tabs.
+336:5: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "p" tag.
+337:1: Error: Indentation: Do not use tabs: Remove the tabs.
+337:11: Error: Entity References: Use the unicode equivalent instead: Change "&copy;" to "©".
+338:1: Error: Indentation: Do not use tabs: Remove the tabs.
+339:1: Error: Indentation: Do not use tabs: Remove the tabs.
+340:1: Error: Indentation: Do not use tabs: Remove the tabs.
+343:23: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+345:20: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+345:445: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+348:25: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+353:23: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+355:24: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+360:21: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+392:22: Error: Capitalization: Attributes should be in lowercase: Change the attribute "viewBox" to "viewbox".
+395:154: Error: Indentation: Do not use tabs: Remove the tabs.
+395:155: Error: General Formatting: Use a new line for every block, list, or table element, and indent every such child element: Move the opening "div" to its own line.
+395:160: Error: Separation of concerns: CSS should be defined in its own file: Move the contents of the "style" attribute to its own CSS file.
+396:1: Error: Indentation: Do not use tabs: Remove the tabs.
+397:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+397:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+398:1: Error: Separation of concerns: Javascript should be defined in its own file: Move the contents of this tag to its own JS file.
+398:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+403:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+403:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+404:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+404:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+405:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+405:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+406:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+406:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+407:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+407:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+408:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+408:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+409:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+409:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+410:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+410:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+411:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+411:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+412:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+412:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+413:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+413:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+414:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+414:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+415:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+415:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+416:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+416:37: Warning: Protocol: Do not specify the protocol unless required: Remove the protocol "http:" from the url.
+417:1: Error: Separation of concerns: Javascript should be defined in its own file: Move the contents of this tag to its own JS file.
+417:9: Error: type Attributes: The default type for script tags is "text/javascript" so it can be safely omitted: Remove the type attribute from the script tag.
+418:1: Error: Indentation: Do not use tabs: Remove the tabs.
+419:1: Error: Indentation: Do not use tabs: Remove the tabs.
+420:1: Error: Indentation: Do not use tabs: Remove the tabs.
+422:1: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "body" tag.
+423:1: Info: Optional Tags: Omit optional tags (optional): You may remove the closing "html" tag.

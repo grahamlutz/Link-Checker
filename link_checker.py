@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import validators
 import html_linter
+from datetime import date
 
 class LinkChecker:
 	'''Class that checks sites for bad links'''
@@ -25,11 +26,24 @@ class LinkChecker:
 		source_code = BeautifulSoup(plain_text, "html.parser")
 		return source_code
 
-	def lint_html(self):
+	def lint_html(self, display=False):
 		source_code = self.get_source_code()
 		plain_text = self.get_link_text()
 		messages = html_linter.lint(plain_text, [html_linter.QuotationMessage, html_linter.IndentationMessage])
-		print(messages)
+		if display == 'log':
+			lint_log = open('link_log.txt', 'w+')
+			lint_log.write('Messages for ' + self.url)
+			lint_log.write('\n')
+			lint_log.write(str(date.today()))
+			lint_log.write('\n')
+			lint_log.write(messages.encode('utf8'))
+			lint_log.close()
+		elif display == 'print':
+			print('Messages for ' + self.url + '\n')
+			print(str(date.today()) + '\n')
+			print(messages)
+		else:
+			return messages
 
 
 	def loop_source_code_tag(self, tag, attr):
@@ -59,4 +73,4 @@ class LinkChecker:
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
 grahamlutz = LinkChecker('http://www.grahamlutz.com', headers)
-grahamlutz.lint_html()
+grahamlutz.lint_html('print')
